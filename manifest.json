@@ -1,10 +1,10 @@
 {
-    "name": "Dev'Coffee",
-    "short_name": "DevCoffee",
+    "name": "Rubik's Craft",
+    "short_name": "Rubik's Craft",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#fdfdfd",
-    "theme_color": "#db4938",
+    "theme_color": "#0500FF",
     "orientation": "portrait-primary",
     "icons": [
         {
